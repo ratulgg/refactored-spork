@@ -1,4 +1,4 @@
-# Live Camera Feed on ST7789 TFT (ESP32‑S3 CAM)
+# Live Camera Feed on ST7789 TFT (Freenove ESP32‑S3 CAM)
 
 This project streams a **live view from an OV3660 camera** directly to a **2.8" ST7789 SPI TFT display**, using a single **ESP32‑S3 CAM board** (Freenove variant).  
 The display is powered externally by a second ESP32 (WROOM) that only provides 3.3V – its logic is not used.
